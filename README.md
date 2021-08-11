@@ -1,11 +1,11 @@
 # modal-project
 
-Basic modal project using below Vue3 concepts:**
--Scoped and global css**
--Props**
--Emitting custom events**
--Click event modifiers**
--Slots (Default and Named)**
+Basic modal project using below Vue3 concepts:\
+-Scoped and global css\
+-Props\
+-Emitting custom events\
+-Click event modifiers\
+-Slots (Default and Named)\
 -Teleport
 
 ## Project setup
